@@ -1,4 +1,4 @@
-# razorpayproject
+# minorproject
 
 A new Flutter project.
 
